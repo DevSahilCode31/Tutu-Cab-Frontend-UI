@@ -18,8 +18,8 @@ This front-end-only project demonstrates clean UI/UX with smooth transitions, ca
 
 ## 📸 Preview
 
-![Login Preview](https://github.com/your-username/assets/login-preview.png)
-![Home Preview](https://github.com/your-username/assets/home-preview.png)
+![image](https://github.com/user-attachments/assets/4ac39391-b960-44c0-8e7c-1b90433351bc)
+![image](https://github.com/user-attachments/assets/4b56530a-b253-4748-bebf-87563082ab96)
 
 
 ## 🛠️ Technologies Used
